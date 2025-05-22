@@ -1,0 +1,10 @@
+div.col-6{
+    background-image:url("../imagenes/nuestro-señor-en-la-columna.jpg") ;
+    background-repeat: no-repeat;
+}
+
+div.nueva{
+    background-image:url("../imagenes/nuestro-señor-en-la-columna.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

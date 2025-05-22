@@ -1,0 +1,13 @@
+body{
+    --miColorRojo:red;
+    --miFondoVerde:rgb(90, 215, 90);
+    --colorUno:rgb(51, 51, 250);
+    --colorDos:white;
+    --colorTres:rgb(252, 252, 56);
+}
+h1{
+    color:var(--miColorRojo) ;
+    background-color:var(--miFondoVerde) ;
+    border: 2px solid var(--colorUno);
+}
+
